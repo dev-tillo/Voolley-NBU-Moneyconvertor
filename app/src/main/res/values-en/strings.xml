@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkingUSSD</string>
+
+    <string name="bu_yerga_yozing">Write here</string>
+    <string name="usd_dollar">USD Dollar</string>
+    <string name="o_zgartirish">Change</string>
+    <string name="bugungi_kurs1">Today\'s course</string>
+    <string name="usd_dollar_name">USD Dollar</string>
+    <string name="one">1</string>
+    <string name="usd_short">USD</string>
+    <string name="equals">=</string>
+    <string name="_10_600_00_numbersum">10.600.00</string>
+    <string name="uzs_short">. UZS</string>
+    <string name="yangilandi">updated:</string>
+    <string name="_30_07_2021_day_mont">30.07.2021</string>
+    <string name="_17_30_time">17:30</string>
+    <string name="yoqtirganlar_mavjud_emas">There are no likes</string>
+    <string name="uzb_eng_text_bottom"><![CDATA[Uzb > Eng]]></string>
+    <string name="bugungi_kurs2">Today\'s course</string>
+
+</resources>
